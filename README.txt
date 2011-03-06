@@ -2,7 +2,6 @@ Drupal Theme Copyright Date SET & FORGET!
 
 Author: Dano Manion
 Date: 03-05-2011 (US)
-Email: danomanion@gmail.com
 
 What Is This?
 It's a theme function that will let you set the copyright date and never have to return to your website to change it when the new year comes. 
